@@ -1,0 +1,7 @@
+{
+  "encoder": "distilbert-base-uncased",
+  "hidden_dim": 768,
+  "max_length": 512,
+  "overlap": 0,
+  "threshold": 0.5100000000000002
+}
