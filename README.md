@@ -1,4 +1,4 @@
-# Daniel-Leon_Assignment-2
+# Assignment-2
 This repo contains Assignment 2: Sentiment Classification with Neural Language Models.
 
 Binary sentiment classifier for movie reviews (0 = negative, 1 = positive), built on
